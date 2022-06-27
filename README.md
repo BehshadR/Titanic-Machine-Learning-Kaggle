@@ -5,7 +5,7 @@ Goal: Exploring a binary classification problem; predicting which passengers sur
 
 Here are the steps for solving this classification problem:
 1. Exploratory data analysis (EDA)
-2. Model training
+2. Training models
+3. Comparing models
+5. Fine-tuning the best two models
 3. Model evaluation
-4. Model Comparison: finding the best model
-5. Model fine-tuning: fine-tuning the best model
