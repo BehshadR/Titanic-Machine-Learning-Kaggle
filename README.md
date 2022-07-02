@@ -7,5 +7,5 @@ Here are the steps for solving this classification problem:
 1. Exploratory data analysis (EDA)
 2. Training models
 3. Comparing models
-5. Fine-tuning the best two models
+5. Fine-tuning the best model
 3. Model evaluation
